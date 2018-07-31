@@ -1,0 +1,2 @@
+var = "LOWER"
+var.islower()
